@@ -14,6 +14,8 @@ export default {
 html {
   box-sizing: border-box;
   font-family: sans-serif;
+  height: 100vh;
+  height: -moz-available;
   height: -webkit-fill-available;
 }
 body {
